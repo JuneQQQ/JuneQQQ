@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Shaobo Li,A student from China</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Shaobo Li , a student from China</h1>
  <p align="center">
    <a href="https://space.bilibili.com/432154182?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/bilibili-伊闪伊-blue">
