@@ -34,13 +34,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=radical" style="width: 48%;height:auto"  />
+<a href="https://github.com/JuneQQQ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=onedark" style="width: 48%;height:auto"  />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=radical" style="width: 48%;height:auto" />
+<a href="https://github.com/JuneQQQ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=onedark" style="width: 48%;height:auto" />
 </a>
 
-Pinned
+
+## Pinned
+<a href="https://github.com/JuneQQQ/vue-shopping">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneQQQ&repo=vue-shopping" />
+</a>
+
+[comment]: <> (<a href="https://github.com/JuneQQQ/vue-project">)
+
+[comment]: <> (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneQQQ&repo=vue-project" />)
+
+[comment]: <> (</a>)
+
 
 ![111](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
