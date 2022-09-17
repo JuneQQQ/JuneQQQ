@@ -14,6 +14,7 @@
 
 - 🏄‍ I like traveling and recording beautiful moments
 - 😄 Like foreword technology, like reading master's blogs
+- 🌟 Hope to be an awesome person, and do awesome things with more awesome people 
 - 🌱 Sometime come up with a whim and do it right away
 - 🥹 Now I am senior student and now is looking for an ideal job
 - 👯 And Many More.....
