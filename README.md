@@ -19,13 +19,6 @@
 - 🥹 I am senior student and now is looking for a ideal job
 - 👯 And Many More...
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=radical" style="width: 40%;height:auto"  />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=radical" style="width: 40%;height:auto" />
-</a>
-
 ## 🔨 Skills and  Tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
@@ -41,8 +34,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=radical" style="width: 40%;height:auto"  />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=radical" style="width: 40%;height:auto" />
+</a>
+
 Pinned
-
-
 
 ![111](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
