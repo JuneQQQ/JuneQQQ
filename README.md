@@ -20,10 +20,10 @@
 - 👯 And Many More...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=radical" style="width: auto;height:200px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=radical" style="width: 40%;height:auto"  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=radical" style="width: auto;height:200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=radical" style="width: 40%;height:auto" />
 </a>
 
 ## 🔨 Skills and  Tools
