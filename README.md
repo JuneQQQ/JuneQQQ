@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Shaobo Li</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Shaobo Li,A student from China</h1>
  <p align="center">
    <a href="https://space.bilibili.com/432154182?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/bilibili-伊闪伊-blue">
@@ -6,7 +6,6 @@
    <img src="https://img.shields.io/badge/email-1243134432@qq.com-blue" alt="JuneQQQ"/>
 		<img src="https://komarev.com/ghpvc/?username=JuneQQQ" alt="JuneQQQ" />
 </p>
-<h3 align="center">A student from China</h3>
 
 <img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
 
@@ -19,6 +18,14 @@
 - 🌱 Sometime come up with a whim and do it right away
 - 🥹 I am senior student and now is looking for a ideal job
 - 👯 And Many More...
+
+- 渐变
+
+![JuneQQQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneQQQ&count_private=true)
+
+
+
+
 
 
 
