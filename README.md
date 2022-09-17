@@ -13,11 +13,10 @@
 ## 😺 About Me
 
 - 🏄‍ I like traveling and recording beautiful moments
-- 😄 I love to speak at public events and have been a speaker at many events. I organize Workshops, Webinars etc to help
-  student Community
+- 😄 Like foreword technology, like reading master's blogs
 - 🌱 Sometime come up with a whim and do it right away
-- 🥹 I am senior student and now is looking for a ideal job
-- 👯 And Many More...
+- 🥹 Now I am senior student and now is looking for an ideal job
+- 👯 And Many More.....
 
 ## 🔨 Skills and  Tools
 
@@ -34,6 +33,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
+
+[comment]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
+
 <a href="https://github.com/JuneQQQ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=onedark" style="width: 48%;height:auto"  />
 </a>
@@ -42,7 +44,7 @@
 </a>
 
 
-## Pinned
+## 🔝 Pinned
 <a href="https://github.com/JuneQQQ/vue-shopping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneQQQ&repo=vue-shopping" />
 </a>
@@ -55,3 +57,5 @@
 
 
 ![111](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
+
+⭐️ From JuneQQQ
