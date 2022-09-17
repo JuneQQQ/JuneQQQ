@@ -25,7 +25,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=radical" style="width: auto;height:200px" />
 </a>
-![a](assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
 
 ## 🔨 Skills and  Tools
 
