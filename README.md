@@ -19,32 +19,13 @@
 - 🥹 I am senior student and now is looking for a ideal job
 - 👯 And Many More...
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true" style="width: auto;height:200px"  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="width: auto;height:200px" />
 </a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![a](assets/github-contribution-grid-snake.svg)
 
 ## 🔨 Skills and  Tools
 
@@ -71,4 +52,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-![a](assets/github-contribution-grid-snake.svg)
+
