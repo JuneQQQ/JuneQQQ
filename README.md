@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true" style="width: auto;height:200px"  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="width: auto;height:200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact" style="width: auto;height:200px" />
 </a>
 ![a](assets/github-contribution-grid-snake.svg)
 
