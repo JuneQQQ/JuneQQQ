@@ -3,18 +3,16 @@
    <a href="https://space.bilibili.com/432154182?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/bilibili-伊闪伊-blue">
   </a>
-   <img src="https://img.shields.io/badge/email-1243134432@qq.com-blue" alt="JuneQQQ"/>
-		<img src="https://komarev.com/ghpvc/?username=JuneQQQ" alt="JuneQQQ" />
+    <img src="https://img.shields.io/badge/email-1243134432@qq.com-blue" alt="JuneQQQ"/>
+    <img src="https://komarev.com/ghpvc/?username=JuneQQQ" alt="JuneQQQ" />
+    <img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
 </p>
-
-<img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
-
-
 
 ## 😺 About Me
 
 - 🏄‍ I like traveling and recording beautiful moments
-- 😄 I love to speak at public events and have been a speaker at many events. I organize Workshops, Webinars etc to help student Community
+- 😄 I love to speak at public events and have been a speaker at many events. I organize Workshops, Webinars etc to help
+  student Community
 - 🌱 Sometime come up with a whim and do it right away
 - 🥹 I am senior student and now is looking for a ideal job
 - 👯 And Many More...
@@ -22,12 +20,6 @@
 - 渐变
 
 ![JuneQQQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneQQQ&count_private=true)
-
-
-
-
-
-
 
 ## 🔨 Skills and  Tools
 
@@ -53,7 +45,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
-
 
 ![a](assets/github-contribution-grid-snake.svg)
