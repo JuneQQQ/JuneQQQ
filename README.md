@@ -5,7 +5,9 @@
   </a>
     <img src="https://img.shields.io/badge/email-1243134432@qq.com-blue" alt="JuneQQQ"/>
     <img src="https://komarev.com/ghpvc/?username=JuneQQQ" alt="JuneQQQ" />
-    <img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
+</p>
+<p align="center">
+<img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
 </p>
 
 ## 😺 About Me
@@ -19,16 +21,11 @@
 
 
 
-
-
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true" style="width: auto;height:200px"  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="width: auto;height:200px" />
 </a>
 
 
