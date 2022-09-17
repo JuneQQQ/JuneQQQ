@@ -8,13 +8,12 @@
 </p>
 <h3 align="center">A student from China</h3>
 
-<img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)"  />
-
-
+<img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
 
 
 
 ## 😺 About Me
+
 - 🏄‍ I like traveling and recording beautiful moments
 - 😄 I love to speak at public events and have been a speaker at many events. I organize Workshops, Webinars etc to help student Community
 - 🌱 Sometime come up with a whim and do it right away
@@ -23,7 +22,7 @@
 
 
 
-### 🔨 Skills and  Tools
+## 🔨 Skills and  Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -51,4 +50,3 @@
 
 
 ![a](assets/github-contribution-grid-snake.svg)
-
