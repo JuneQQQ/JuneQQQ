@@ -39,10 +39,10 @@
 [comment]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
 
 <a href="https://github.com/JuneQQQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=onedark" style="object-fit: fill;width: auto;height:250px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=onedark" style="object-fit: fill;width: auto;height:220px"  />
 </a>
 <a href="https://github.com/JuneQQQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=onedark" style="object-fit: fill;width: auto;height:250px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=onedark" style="object-fit: fill;width: auto;height:220px" />
 </a>
 
 
