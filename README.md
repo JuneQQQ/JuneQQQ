@@ -50,7 +50,7 @@ welcome to my github!
 
 
 ## 🔝 Pinned
-<a href="https://github.com/JuneQQQ/vue-shopping">
+<a href="https://github.com/JuneQQQ/imitation-bilibili">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneQQQ&repo=vue-shopping" />
 </a>
 
