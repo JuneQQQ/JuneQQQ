@@ -13,8 +13,6 @@ welcome to my github!
 <img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
 </p>
 
-- 🥹 My Gitee https://gitee.com/JuneQ
-
 ## 😺 About Me
 
 - 🏄‍ I like traveling and recording beautiful moments
@@ -22,23 +20,6 @@ welcome to my github!
 - 🌟 Hope to be an awesome person, and do awesome things with more awesome people 
 - 🌱 Sometime come up with a whim and do it right away
 - 👯 And Many More.....
-
-## 🔨 Skills and  Tools
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![RabbitMq](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-
 
 [comment]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
 
