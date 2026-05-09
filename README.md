@@ -1,50 +1,67 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, 
-<!--I'm Shaobo Li , a student from China-->
-welcome to my github!
+<h1 align="center">
+  <a href="https://github.com/JuneQQQ">Shaobo Li</a>
 </h1>
- <p align="center">
-   <a href="https://space.bilibili.com/432154182?spm_id_from=333.1007.0.0">
-    <img src="https://img.shields.io/badge/bilibili-伊闪伊-blue">
-  </a>
-    <img src="https://img.shields.io/badge/email-1243134432@qq.com-blue" alt="JuneQQQ"/>
-    <img src="https://komarev.com/ghpvc/?username=JuneQQQ" alt="JuneQQQ" />
-</p>
+
 <p align="center">
-<img src="assets/OIP-C%20(1).jpeg" alt="OIP-C (1)" align="center"  />
+  <em>NLP / LLM / Agent · 低资源机器翻译 · 多智能体数据合成</em>
 </p>
 
-## 😺 About Me
+<p align="center">
+  <a href="mailto:1243134432@qq.com">
+    <img src="https://img.shields.io/badge/Email-1243134432@qq.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://space.bilibili.com/432154182">
+    <img src="https://img.shields.io/badge/Bilibili-伊闪伊-00A1D6?style=flat-square&logo=bilibili" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JuneQQQ&style=flat-square" />
+</p>
 
-- 🏄‍ I like traveling and recording beautiful moments
-- 😄 Like foreword technology, like reading master's blogs
-- 🌟 Hope to be an awesome person, and do awesome things with more awesome people 
-- 🌱 Sometime come up with a whim and do it right away
-- 👯 And Many More.....
+---
 
-[comment]: <> (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
+## 🧑‍� About Me
+
+- � 研究方向：**低资源 NLP、LLM 微调与推理优化、Multi-Agent 系统**
+- 🏆 Kaggle Silver Medal — Deep Past Challenge（古亚述语机器翻译，109th）
+- 🔧 擅长把脏数据变成可学数据，用工程化手段在低资源场景下逼近性能天花板
+- � 持续关注：ByT5 字节级建模、GRPO/DPO 对齐、vLLM 推理部署、MCP 协议
+
+---
+
+## 🛠️ Tech Stack
+
+**模型训练** &nbsp; PyTorch · Transformers · ms-swift · DeepSpeed ZeRO
+
+**推理部署** &nbsp; vLLM · PagedAttention · Model Soup · Hybrid MBR
+
+**智能体** &nbsp; OpenAI API · Pydantic · ThreadPoolExecutor · ReAct
+
+**数据工程** &nbsp; MinerU OCR · PostgreSQL · json_repair
+
+**评测指标** &nbsp; BLEU · chrF++ · MMLU · C-Eval
+
+---
+
+## 🏆 Featured Project
+
+<a href="https://github.com/JuneQQQ/deep_past">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneQQQ&repo=deep_past&theme=onedark" />
+</a>
+
+**Deep Past** — Kaggle 银牌方案（109th）
+
+低资源古亚述语→英文翻译系统：Qwen3.5-9B 句子对齐 + ByT5 CPT/SFT + R-Drop/Coverage Loss + Hybrid MBR 推理集成
+
+---
+
+## 📊 GitHub Stats
 
 <a href="https://github.com/JuneQQQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=onedark" style="object-fit: fill;width: auto;height:175px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=onedark&hide_border=true" style="height:170px" />
 </a>
 <a href="https://github.com/JuneQQQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=onedark" style="object-fit: fill;width: auto;height:175px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=onedark&hide_border=true" style="height:170px" />
 </a>
 
+---
 
-## 🔝 Pinned
-<a href="https://github.com/JuneQQQ/imitation-bilibili">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneQQQ&repo=imitation-bilibili" />
-</a>
-
-[comment]: <> (<a href="https://github.com/JuneQQQ/vue-project">)
-
-[comment]: <> (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuneQQQ&repo=vue-project" />)
-
-[comment]: <> (</a>)
-
-
-![111](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
-
-⭐️ From <a href="https://github.com/JuneQQQ">
-<img src="https://img.shields.io/badge/github-JuneQQQ-blue">
-</a>
+![Snake](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
