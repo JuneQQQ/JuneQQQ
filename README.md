@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:1243134432@qq.com">
-    <img src="https://img.shields.io/badge/Email-1243134432@qq.com-blue?style=flat-square&logo=gmail" />
+  <a href="mailto:june1243134432@gmail.com">
+    <img src="https://img.shields.io/badge/Email-june1243134432@gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.kaggle.com/bcdefga">
     <img src="https://img.shields.io/badge/Kaggle-bcdefga-20BEFF?style=flat-square&logo=kaggle" />
@@ -16,7 +16,6 @@
   <a href="https://space.bilibili.com/432154182">
     <img src="https://img.shields.io/badge/Bilibili-伊闪伊-00A1D6?style=flat-square&logo=bilibili" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JuneQQQ&style=flat-square" />
 </p>
 
 ---
@@ -32,11 +31,16 @@ I work on **large language models and autonomous agents** — focusing on the tr
 ## 💼 Open to Opportunities
 
 I'm **actively seeking full-time roles** in LLM post-training / reinforcement learning / agent research & engineering.
-Feel free to reach out via [email](mailto:1243134432@qq.com) or [Kaggle](https://www.kaggle.com/bcdefga) — happy to chat.
+Feel free to reach out via [email](mailto:june1243134432@gmail.com) or [Kaggle](https://www.kaggle.com/bcdefga) — happy to chat.
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuneQQQ&show_icons=true&theme=onedark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuneQQQ&layout=compact&theme=onedark&hide_border=true" height="165" />
+  <a href="https://github.com/JuneQQQ?tab=followers">
+    <img src="https://img.shields.io/github/followers/JuneQQQ?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=70a5fd" />
+  </a>
+  <a href="https://github.com/JuneQQQ?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJuneQQQ&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&labelColor=1a1b27&color=bf91f3" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JuneQQQ&style=for-the-badge&label=Profile+Views&labelColor=1a1b27&color=a3be8c" />
 </p>
